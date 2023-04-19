@@ -22,7 +22,7 @@ public class CollectorsExample {
                                     CollectorsExample.class.getClassLoader().getResourceAsStream("people.txt")
                             )
                     );
-            Stream<String> stream = reader.lines()
+            Stream<String> stream = reader.lines();
 
         ) {
             stream.map(line -> {
