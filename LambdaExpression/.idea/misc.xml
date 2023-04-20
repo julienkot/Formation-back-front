@@ -7,7 +7,15 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/../Stream_API_Collectors/pom.xml" />
         <option value="$PROJECT_DIR$/../DateTimeApi/pom.xml" />
+        <option value="$PROJECT_DIR$/../java8Maps/pom.xml" />
+        <option value="$PROJECT_DIR$/../Maps/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../Maps/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="corretto-1.8" project-jdk-type="JavaSDK">
